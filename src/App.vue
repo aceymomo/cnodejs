@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app">333
     <cnodehead></cnodehead>
     <router-view name="main"></router-view>
   </div>
